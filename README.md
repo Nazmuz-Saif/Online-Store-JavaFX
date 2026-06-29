@@ -11,19 +11,19 @@
 ```
 Online-Store-JavaFX/
 ├── src/
-│   └── Store/
-│       ├── Main.java
-│       ├── LoginViewController.java
-│       ├── AdminDashBoardController.java
-│       ├── CustomerDashBoardController.java
-│       └── SignUpController.java
-├── View/
-│   ├── LoginView.fxml
-│   ├── AdminDashboard.fxml
-│   ├── CustomerDashBoard.fxml
-│   └── SignUpDashBoard.fxml
+│   ├── Store/
+│   │   ├── Main.java
+│   │   ├── LoginViewController.java
+│   │   ├── AdminDashBoardController.java
+│   │   ├── CustomerDashBoardController.java
+│   │   └── SignUpController.java
+│   └── View/
+│       ├── LoginView.fxml
+│       ├── AdminDashboard.fxml
+│       ├── CustomerDashBoard.fxml
+│       └── SignUpDashBoard.fxml
 ├── docs/
-│   └── Project_Report_23201023.pdf          # Individual project report
+│   └── Project_Report_23201023.pdf
 └── README.md
 ```
 
